@@ -1,0 +1,13 @@
+Account: Raúl
+Cuurency: €
+Income Categories: {salario, 3000}, ...
+Outcome Categories: {cerveza, 10}, ...
+List of Incomes:
+List of Outcomes:
+Bank Accounts: {assets {btc, 1000} {rio, 3000}, bank {openbank, 3000}}
+Cards:
+Cash:
+Assets:
+
+
+Account
