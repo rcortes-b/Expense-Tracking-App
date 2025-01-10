@@ -1,13 +1,12 @@
 Account: Raúl
-Cuurency: €
+Summary Status: Monthly
+Currency: €
+Total Heritage: 5000
+Income: 1300
+Outcome: 300
 Income Categories: {salario, 3000}, ...
 Outcome Categories: {cerveza, 10}, ...
-List of Incomes:
-List of Outcomes:
-Bank Accounts: {assets {btc, 1000} {rio, 3000}, bank {openbank, 3000}}
-Cards:
-Cash:
-Assets:
+SubAccounts: assets {(btc, 1000) (rio, 3000)}, bank {(openbank, 3000)}, cash {(wallet, 10)}
 
 
-Account
+Account: 
